@@ -1,6 +1,18 @@
 # mini_bank_admin_panel
 Mini Bank Admin Panel Made With C Programming Language
 
+Features:
+
+.Interactive output.
+.Adding Accounts.
+.Money Transactions.
+.Edit and update information about accounts
+.Removing existing account
+
+
+
+
+
 Defualt credintials:
 username: admin
 password :12345
