@@ -4,9 +4,18 @@ Mini Bank Admin Panel Made With C Programming Language
 Features:
 
 -Interactive output.
+
+
 -Adding Accounts.
+
+
 -Money Transactions.
+
+
 -Edit and update information about accounts
+
+
+
 -Removing existing account
 
 
