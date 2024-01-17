@@ -37,6 +37,7 @@ Access the Mini Bank Admin Panel using the default credentials:
    ```sh
    gcc mini_bank_admin_panel.c -o mini_bank_admin_panel
 3. Run the executable.
+     ```sh
 ./mini_bank_admin_panel
 
    
