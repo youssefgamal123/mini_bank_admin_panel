@@ -39,5 +39,3 @@ Access the Mini Bank Admin Panel using the default credentials:
 3. Run the executable.
      ```sh
      ./mini_bank_admin_panel
-
-   
